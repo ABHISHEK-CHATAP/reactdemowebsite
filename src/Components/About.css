@@ -1,0 +1,75 @@
+@media (min-width:320px) and (max-width:767px){
+    #header .col-md-6 {
+        flex: 0 0 auto;
+        width: 99%;
+        margin-left: 0px;
+    
+    }
+
+    #Kusum{
+        margin-left: 10px;
+    }
+   
+    #bba{
+        margin-top: 5rem;
+    }
+     #Ani{
+        margin-top: 25rem;
+    }
+    .container-fluid p{
+        margin-top: -80px;
+    margin-bottom: 0rem;
+    margin-left: 20px;
+    }
+    
+    #header h1{
+    
+        font-weight: 300;
+    }
+    
+
+}
+
+
+
+
+ @media (min-width:768px) and (max-width:991px){
+    #header-img {
+        z-index: 2;
+        margin-top: 200px;
+        margin-left: 113px;
+    }
+    .Abhi{
+        width: 70%;
+    }
+    #header .col-md-6 {
+        flex: 0 0 auto;
+        width: 70%;
+        margin-left: 106px;
+    }
+
+  
+    #bba{
+        margin-top: 0rem;
+    }
+     #Ani{
+        margin-top: 22rem;
+    }
+    .container-fluid p{
+        margin-top: -80px;
+    margin-bottom: 0rem;
+    }
+ }
+
+
+
+ @media (min-width:992px) and (max-width:1440px){
+    #xysz{
+        margin-top: 150px;
+        margin-left: 10px;
+    }
+    #Ani{
+        margin-top: 7rem;
+    }
+
+}

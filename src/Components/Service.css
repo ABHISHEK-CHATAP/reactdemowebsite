@@ -1,0 +1,92 @@
+@media (min-width:320px) and (max-width:767px){
+    #Ayush{
+        margin-right: -125px;
+        margin-top: 50px;
+    }
+    .my-3{
+        margin-left: 110px;
+        margin-top: 4rem!important;
+        margin-bottom: 1rem!important;
+        margin-left: 5px;
+    }
+    .text-center{
+        margin-top: 60px;
+    }
+   
+
+    #bba{
+        margin-top: 30rem;
+    }
+    #Ani{
+        margin-top: 30rem;
+    }
+    .container-fluid p {
+        margin-top: 0px;
+    
+        margin-bottom: 0rem;
+    }
+
+    .container-fluid p {
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-right: 0rem;
+    }
+    #card-texxtt{
+        margin-right: 0rem;
+    }
+    .text-center{
+        font-family: cursive;
+    font-weight: 900;
+}
+#Ani{
+    margin-top: 180rem;
+}
+#bba{
+    margin-top: 0rem;
+}
+#Hello{
+    margin-top: 147rem;
+}
+
+
+
+
+    }
+    
+    
+
+
+
+
+    @media (min-width:768px) and (max-width:991px){
+    
+      
+  #zoho{
+    margin-top: 100px;
+  }
+
+
+#bba{
+    margin-top: 28rem;
+}
+#Ani{
+    margin-top: 22rem;
+}
+.container-fluid p {
+    margin-top: 0px;
+
+    margin-bottom: 0rem;
+}
+
+    }
+
+
+    @media (min-width:992px) and (max-width:1024px){
+       
+    #Ani{
+        margin-top: 0rem;
+    }
+    #bba{
+        margin-top: 0rem;
+    }
+    }

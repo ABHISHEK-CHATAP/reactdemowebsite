@@ -1,0 +1,56 @@
+@media (min-width:320px) and (max-width:767px){
+#form{
+    margin-left: 60px;
+        margin-right: -60px;
+}
+.text-center{
+    margin-right: -100px;
+}
+.my-4{
+    margin-top: 5rem;
+}
+#shir {
+    margin-top: 0rem;
+}
+
+#bba{
+    margin-top: -25rem;
+}
+#Ab{
+    margin-top: 25px;
+
+}
+}
+
+
+
+@media (min-width:768px) and (max-width:991px){
+
+#contact{
+    margin-top: 65px;
+}
+#Ani {
+    margin-top: 7rem;
+    margin-bottom: -320px;
+}
+ #Ab{
+    margin-top: 60px;
+    margin-bottom: 0rem;
+}
+
+
+}
+
+
+
+@media (min-width:992px) and (max-width:1024px){
+   #Ani{
+    margin-top: 4rem;
+   }
+#Ab{
+    margin-top: 60px;
+    margin-bottom: 0rem;
+
+}
+
+}
